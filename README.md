@@ -1,7 +1,7 @@
 ###  **Project Name: Noxia**
 ### **This is a simple Bootstarp template.**
 ### Live:   https://shahreyar46.github.io/Noxia/
-### **Built With**
+### **Build With**
 
 - HTML5
 
